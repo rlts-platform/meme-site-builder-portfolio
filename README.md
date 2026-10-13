@@ -34,6 +34,10 @@ Instead of starting from a blank page, users can describe their project's style,
 
 The goal of Meme Site Builder is to simplify the process of launching a professional-looking website for a meme coin project. By combining guided input, AI-assisted generation, design choices, and a project dashboard, the platform aims to make website creation more accessible to creators without requiring a traditional web development workflow.
 
+## Source Showcase
+
+A small, adapted React component demonstrates a design-variant selection interaction without production AI, payment, or backend logic: [View the code sample](showcase/DesignVariantCard.jsx).
+
 ## Source Code & Intellectual Property Notice
 
 This public repository is a limited portfolio showcase, not a release of the complete commercial application. A small, sanitized example is included in the `showcase/` directory to demonstrate a UI component and selection workflow. The complete application, AI generation logic, backend configuration, and integrations remain private because they represent original work developed for commercial use.
