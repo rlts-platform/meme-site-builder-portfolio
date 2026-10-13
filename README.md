@@ -33,3 +33,16 @@ Instead of starting from a blank page, users can describe their project's style,
 ## Project Goal
 
 The goal of Meme Site Builder is to simplify the process of launching a professional-looking website for a meme coin project. By combining guided input, AI-assisted generation, design choices, and a project dashboard, the platform aims to make website creation more accessible to creators without requiring a traditional web development workflow.
+
+## Source Code & Intellectual Property Notice
+
+This public repository is a limited portfolio showcase, not a release of the complete commercial application. A small, sanitized example is included in the `showcase/` directory to demonstrate a UI component and selection workflow. The complete application, AI generation logic, backend configuration, and integrations remain private because they represent original work developed for commercial use.
+
+All rights are reserved. This showcase does not grant permission to copy, redistribute, modify, or incorporate its code into another product without prior written permission. No production credentials, API keys, customer data, or live environment files are intentionally included. The example is adapted for public review and is not a complete, production-ready application.
+
+
+## Source Code & Intellectual Property Notice
+
+This public repository is a limited portfolio showcase, not a release of the complete commercial application. Selected examples are provided to demonstrate project structure, implementation approach, and development work. Significant proprietary workflows, full application source, backend logic, and integrations are intentionally kept private because these products represent substantial original work developed for commercial use.
+
+All rights are reserved. This showcase does not grant permission to copy, redistribute, modify, or incorporate its code into another product without prior written permission. No production credentials, API keys, customer records, or live environment files are intentionally included. Some examples are sanitized or adapted for public review and may omit private dependencies; they are not a complete, production-ready application.
